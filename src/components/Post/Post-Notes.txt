@@ -1,0 +1,28 @@
+// the news feed component will have two child component
+/*
+1. a new post form(New Post Component)
+2. list of post from followed Users(Post List Component)
+
+-Also the news feed component will control the state of the post data that will be rendered in the child component listed ablove
+
+- it wwill provide a way to handle post updates or(update the state) across the component when the post data is modified within each child component such and addition and removal of new posts
+
+- A load post function shall be initiated that will load all the post of followers of the user that is currently signed in. This function will make call to the server at the backend and set it to the state to be rendered in the Postlist component
+
+
+The News Feed component (Parent to New Post and Post List Component) will provide functionality for adding and removing post functions to NewPost and PostList component,which will be used for a creation of a new post or removing an existing post which will update the list of post if the NewsFeed state and reflect in the PostList
+
+
+--------------- --
+
+addPost() method that is defiend in the NewsFeed component will take the newly created post in the NewPost component and add it to the posts in the state.
+
+
+*/
+
+
+The Post list Component will render the array list of posts as mentioned earlier. We can use this list both in the NewsFeed and Profile component.
+
+The Post list component will iterate thru list of post passed to it as props from the NewsFeed or the Profile component and pass the data of each post to the Post Component, that will then render the details of the post.
+
+The post list component also passes the removeUpdate method as props so that when a post is been removed the state updates as well across each component

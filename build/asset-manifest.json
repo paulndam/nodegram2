@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.08e9003c.chunk.js",
+    "main.js.map": "/static/js/main.08e9003c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63d37c44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63d37c44.js.map",
+    "static/js/2.5cefd75d.chunk.js": "/static/js/2.5cefd75d.chunk.js",
+    "static/js/2.5cefd75d.chunk.js.map": "/static/js/2.5cefd75d.chunk.js.map",
+    "static/js/3.c2584f34.chunk.js": "/static/js/3.c2584f34.chunk.js",
+    "static/js/3.c2584f34.chunk.js.map": "/static/js/3.c2584f34.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5cefd75d.chunk.js.LICENSE.txt": "/static/js/2.5cefd75d.chunk.js.LICENSE.txt",
+    "static/media/burger1.jpeg": "/static/media/burger1.3c923a12.jpeg",
+    "static/media/car1.jpeg": "/static/media/car1.4c02d16e.jpeg",
+    "static/media/crazyfrog.adb04dfc.png": "/static/media/crazyfrog.adb04dfc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d37c44.js",
+    "static/js/2.5cefd75d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.08e9003c.chunk.js"
+  ]
+}
